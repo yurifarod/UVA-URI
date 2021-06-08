@@ -1,2 +1,2 @@
 # UVA-URI
-My answer for UVA and URI judge!
+My answer for Hacker Rank, UVA and URI judge!
